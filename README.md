@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a data analyst and student at UNC Charlotte. An enthusiast for finding insight and methods to find that insight. 
+
