@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data analyst and student at UNC Charlotte. An enthusiast for finding insight and methods to find that insight. 
+I'm a data analyst and student at UNC Charlotte. An enthusiast for finding insight and the methods for discovering those insights. 
 
