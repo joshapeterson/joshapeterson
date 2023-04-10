@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 I'm a data analyst and student at UNC Charlotte. An enthusiast for finding insight and the methods for discovering those insights. 
 
+Below you can find examples of previous work that utilized Python, R or SQL
