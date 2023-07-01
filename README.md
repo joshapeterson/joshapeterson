@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data analyst at UNC Charlotte. An enthusiast for finding insight and the methods for discovering those insights. 
+I'm a data analyst at UNC Charlotte. An enthusiast for finding insight and understanding the methods used to find those insights. 
 
-Below you can find examples of previous work that utilized Python and R.
+Welcome to my GitHub where you can find examples of previous and current work.
