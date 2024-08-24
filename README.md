@@ -19,5 +19,3 @@ I'm a data analyst at UNC Charlotte. An enthusiast for finding insight and under
 
 Welcome to my GitHub where you can find my portfolio below. 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![japeterson592@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
