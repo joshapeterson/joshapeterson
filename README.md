@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a data analyst at UNC Charlotte. An enthusiast for finding insight and understanding the methods used to find that insight. 
+I'm a Data Analyst at UNC Charlotte. An enthusiast for finding insight and understanding the methods used to find that insight. 
 
 Welcome to my GitHub where you can find my portfolio below. 
 
-![Static Badge](https://img.shields.io/badge/LinkedIn?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjapeterson1%2F)
